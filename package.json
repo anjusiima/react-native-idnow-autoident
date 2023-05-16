@@ -36,12 +36,12 @@
     "ios",
     "android"
   ],
-  "repository": "git+https://github.com/bitwala/react-native-idnow-autoident.git",
-  "homepage": "https://github.com/bitwala/react-native-idnow-autoident#readme",
-  "author": "Bitwala",
-  "license": "MIT",
+  "repository": "git+https://github.com/anjusiima/react-native-idnow-autoident.git",
+  "homepage": "https://github.com/anjusiima/react-native-idnow-autoident#readme",
+  "author": "anjusiima",
+  "license": "anjusiima",
   "bugs": {
-    "url": "https://github.com/bitwala/react-native-idnow-autoident/issues"
+    "url": "https://github.com/anjusiima/react-native-idnow-autoident/issues"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
